@@ -25,11 +25,6 @@
 **Tools**: SAP GUI · SE80 · SE11 · Git · GitHub · SQL  
 **Languages**: English · German (A2) 
 
----
-
-## 🚀 Currently Learning
-
-
 
 ---
 
